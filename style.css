@@ -22,10 +22,8 @@
   margin: 20px 0px 20px 0px;
   box-sizing: border-box;
 }
-.recipes-list{
+.list-icon{
   list-style-image: url('img/sushi-icon.png');
-  font-size: 24px;
-  color:black;
 }
 .recipe-images{
   width : 800px;
@@ -37,6 +35,10 @@
   padding: 16px;
   text-align: justify;
   font-size: 20px;
+}
+a{
+  font-size: 24px;
+  color:black;
 }
 a:visited{
   color: #85bcbe;
