@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 .header,.smaller-header{
-    background-color: #ff8ec3;
+  background-color: #ff8ec3;
   color: white;
 }
 .header{
@@ -14,9 +14,8 @@
 }
 .smaller-header{
   padding: 10px;
-  font-size: 24px;
+  font-size: 30px;
 }
-
 .content-container{
   border: 5px dashed  #ffd3f1;
   padding: 20px;
@@ -28,13 +27,17 @@
   font-size: 24px;
   color:black;
 }
-
 .recipe-images{
   width : 800px;
   display: block;
   margin: auto;
 }
-
+.text-container{
+  background-color: #bfd3f7;
+  padding: 10px;
+  text-align: justify;
+  font-size: 20px;
+}
 a:visited{
   color: #85bcbe;
 }
