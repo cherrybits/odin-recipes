@@ -10,15 +10,15 @@
   padding: 20px;
   font-size: 48px;
 }
-.recipes-container{
+.content-container{
   border: 5px dashed  #ffd3f1;
   padding: 10px;
   box-sizing: border-box;
+}
+.recipes-list{
+  list-style-image: url('img/sushi-icon.png');
   font-size: 24px;
   color:black;
-}
-.icon-list{
-  list-style-image: url('img/sushi-icon.png');
 }
 
 a:visited{
