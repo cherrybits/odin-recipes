@@ -13,8 +13,8 @@
   font-size: 48px;
 }
 .smaller-header{
-  padding: 10px;
-  font-size: 30px;
+  padding: 16px;
+  font-size: 32px;
 }
 .content-container{
   border: 5px dashed  #ffd3f1;
@@ -34,7 +34,7 @@
 }
 .text-container{
   background-color: #bfd3f7;
-  padding: 10px;
+  padding: 16px;
   text-align: justify;
   font-size: 20px;
 }
