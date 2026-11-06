@@ -1,15 +1,29 @@
 .container{
   width : 1080px;
   margin : 20px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
 }
 .header{
   background-color: #ff8ec3;
   color: white;
-  padding: 16px;
+  padding: 20px;
+  font-size: 48px;
+}
+.recipes-container{
+  border: 5px dashed  #ffd3f1;
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 24px;
+  color:black;
+}
+.icon-list{
+  list-style-image: url('img/sushi-icon.png');
 }
 
-.recipes-container{
-  background-color: #ffd3f1;
-  padding: 10px;
+a:visited{
+  color: #85bcbe;
+}
+a:hover{
+  background-color: #d2b7ff;
 }
